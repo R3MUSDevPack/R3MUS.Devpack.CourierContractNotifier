@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="R3MUS.Devpack.CourierContractNotifier.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ClientID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">73a9af24ff294c25a08212de7f1feab3</Value>
+    </Setting>
+    <Setting Name="AppKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">oyezBWCoUNntwCaXfYea8E72nuQI8PGgdeG9L20X</Value>
+    </Setting>
+    <Setting Name="CallbackURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:20000/App/</Value>
+    </Setting>
+    <Setting Name="DiscordWebhook" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://discordapp.com/api/webhooks/440924632623611914/EMAoJPcC-q_hgAVyOeusmESpFy_7ph0woi390zWcwgXUHkZI_tRKzDUgmz7RlrmwyjRt</Value>
+    </Setting>
+    <Setting Name="SlackWebhook" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://hooks.slack.com/services/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</Value>
+    </Setting>
+    <Setting Name="DiscordChannel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">logistics</Value>
+    </Setting>
+    <Setting Name="SlackChannel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">logistics</Value>
+    </Setting>
+    <Setting Name="LogisticsCorpId" Type="System.Int64" Scope="Application">
+      <Value Profile="(Default)">98519417</Value>
+    </Setting>
+    <Setting Name="ContractToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StructureToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StrucureAccessCorpId" Type="System.Int64" Scope="Application">
+      <Value Profile="(Default)">98518643</Value>
+    </Setting>
+    <Setting Name="PaymentPerM3" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="MaximumSize" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">50000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
